@@ -15,7 +15,7 @@ class Fooderlich extends StatelessWidget {
  final theme = FooderlichTheme.dark();
 return MaterialApp(
  theme: theme,
- title: 'Fooderlich',
+ title: 'Fooderlich', 
  home: const Home(),
 );
  }
